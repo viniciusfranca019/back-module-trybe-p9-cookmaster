@@ -11,7 +11,6 @@ Projeto realizado no curso fullstack da trybe
   - POST /recipes
   - GET /recipes
   - GET /recipes/:id
-  - [6 - Crie uma query em mongo que insira uma pessoa usuária com permissões de admin]
   - PUT /recipes/:id
   - DELETE /recipes/:id
   - PUT /recipes/:id/image
